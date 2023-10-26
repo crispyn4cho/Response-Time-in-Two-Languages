@@ -15,6 +15,7 @@ Experiment:
 
 
 Results:
+
 ![image](https://github.com/crispyn4cho/Response-Time-in-Two-Languages/assets/114611209/38c9b536-077e-4861-96f9-0aef4dfc93c3)
 
 
