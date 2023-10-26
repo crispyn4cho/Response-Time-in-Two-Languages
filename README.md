@@ -15,12 +15,8 @@ Experiment:
 
 
 Results:
-Fluency	  Avg % Correct	  Avg Time (s)
-1	        0.83	          2.67
-2	        0.82	          4.378333333
-3	        0.85	          3.0885
-4	        0.7	            2.708
-5	        0.6	            3.895
+![image](https://github.com/crispyn4cho/Response-Time-in-Two-Languages/assets/114611209/38c9b536-077e-4861-96f9-0aef4dfc93c3)
+
 
 Analysis:
 - Generally, the people with less knowledge of Spanish performed better based on percent of questions answered correctly
